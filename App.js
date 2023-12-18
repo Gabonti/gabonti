@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+/* import React, { useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import NavBar from './components/Navbar';
 import ErrorPage from './components/ErrorPage';
@@ -35,3 +35,4 @@ function App() {
 }
 
 export default App;
+ */
